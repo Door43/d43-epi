@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[epi:home|Door43 (epi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-epi|d43-epi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-epi/archive/master.zip|d43-epi.zip]]
+
+**Recent Changes**
+{{changes>ns = epi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/epi|Ethnologue data]]
+
